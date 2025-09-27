@@ -12,6 +12,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ### Backend
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
@@ -20,6 +22,8 @@
 ![Entity Framework Core](https://img.shields.io/badge/-EF%20Core-512BD4?logo=.net&logoColor=white)
 ![Kendo UI](https://img.shields.io/badge/-Kendo%20UI-0A7EB3?logo=kendo-ui&logoColor=white)
 ![Blogger](https://img.shields.io/badge/-Blogger-FF5722?logo=blogger&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
 
 ---
 
@@ -30,10 +34,6 @@
 
 ---
 
-## 📂 Featured Projects
-> Pin your **top repositories** here so visitors can find your best work.
-
----
 
 ## 📫 Contact
 [![Website](https://img.shields.io/badge/-ahmaddd.me-000000?logo=vercel&logoColor=white)](https://ahmaddd.me)  
