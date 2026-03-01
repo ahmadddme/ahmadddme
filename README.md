@@ -2,7 +2,7 @@
 
 **18 years old | Full-Stack Web Developer**
 
-🌐 Passionate about building modern **web applications** – from sleek front-end experiences to robust back-end logic.
+🌐 Passionate about building modern **web applications** 
 
 ---
 
